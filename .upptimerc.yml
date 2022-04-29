@@ -20,7 +20,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "Web Status"
-  introMessage: Web Monitor
+  introMessage: Web Status Monitor
   navbar:
     - title: Status
       href: /
